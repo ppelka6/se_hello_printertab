@@ -7,4 +7,4 @@ class TestFOrmater(unittest.TestCase):
   name = r.split(" ")[0]
   msg = r.split(" ")[1]
   self.assertTrue(name.isupper())
-  self.assertTrue(msg.isupper())~
+  self.assertTrue(msg.isupper())
