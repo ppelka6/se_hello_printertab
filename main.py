@@ -1,4 +1,4 @@
 from hello_world import app
 
-if __name__ == "__main__":
+in __name__ == "__main__":
     app.run() 
